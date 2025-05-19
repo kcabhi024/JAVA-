@@ -2,8 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JavaDayOne" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/newjava" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Challange_Question" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Operators_Statement" vcs="Git" />
   </component>
 </project>
